@@ -1,0 +1,5 @@
+config	Configuration parameters vocabulary
+system	System command vocabulary
+ctrlkey	Predefined Ctrl-Key vocabulary
+pin	I/O PINs vocabulary
+driver	Driver command vocabulary
