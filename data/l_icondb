@@ -1,0 +1,14 @@
+wifissid=["TIM-19215489","TIM-72447854"]
+wifipass=["sonopochequattroricotte0","chisifermaeperduto54"]
+broker="icon-lab.tim.it"
+port=8883
+ssl=true
+finger="C7 99 24 B8 59 B9 8B 5D 53 E1 A6 2D F1 2D 9C C8 AA AF 4E 02"
+mqttuser="lab_accreditati"
+mqttpass="aCCr_ic0n"
+mqttin="/oneM2M/resp/lab_accreditati_prod/onem2m_e65baa96/json"
+mqttout="/oneM2M/req/lab_accreditati_prod/onem2m_e65baa96/json?auth=bGFiX2FjY3JlZGl0YXRpOmFDQ3JfaWMwbg=="
+mqttshare="/oneM2M/lab_accreditati_prod/onem2m_e65baa96/sm/"
+mqttmsg="{\"m2m:rqp\":{\"op\":\"1\",\"to\":\"/onem2m/lab_accreditati/test\",\"fr\":\"lab_accreditati_prod\",\"rqi\":123,\"ty\":\"4\",\"pc\":{\"m2m:cin\":{\"cnf\":\"application/json:0\",\"con\":{\"temp\":2031}}}}}"
+mqttmon=true
+autoconn=true

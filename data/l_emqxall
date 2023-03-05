@@ -1,0 +1,14 @@
+wifissid=["TIM-19215489","TIM-72447854"]
+wifipass=["sonopochequattroricotte0","chisifermaeperduto54"]
+broker="broker.emqx.io"      
+port=1883     
+ssl=false     
+mqttuser=""   
+mqttpass=""   
+mqttpref="/sm/"
+mqttin=">/"    
+mqttout="</"   
+mqttshare="/sh/"
+mqttmsg="led=true"
+mqttmon=true
+autoconn=true
