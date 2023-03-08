@@ -8,3 +8,4 @@ hello	Default sketch name
 infoper	Operators info
 infojson	JSON info
 mqttcon	MQTT topic for device status
+fsver	File System version
