@@ -2,11 +2,11 @@ config
 ctrlkey
 dictionary
 driver
+fsid
 infojson
 infoper
 lexicon
 messages
 pin
 system
-fsver
 catalog
