@@ -1,0 +1,15 @@
+Esc	Reset
+Ctrl_I	Info
+Ctrl_G	Bell
+Ctrl_O	OS
+Ctrl_T	Toggle Trace mode
+Ctrl_V	Toggle View mode
+Ctrl_D	Toggle Debug mode
+Ctrl_E	Toggle Extime mode
+Ctrl_L	show current Layout
+Ctrl_S	save start sketch
+Ctrl_A	list archived layouts and sketches
+Ctrl_W	show current Sketch
+Ctrl_N	create a new sketch
+Ctrl_Z	zap current layout
+Ctrl_X	Toggle MQTT connection status
