@@ -68,3 +68,4 @@ fwcheck	check for a firmware update
 fwupdate	update the firmware
 fwauth	OTA server authentication type
 fsupdate	update the File System
+ffwupdate	forced Firmware update
