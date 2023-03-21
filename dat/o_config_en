@@ -1,0 +1,26 @@
+lang	language
+bps	serial bitrate ###
+echo	enable/disable echo
+username	login username
+password	(c) login password
+wifissid	SSIDs for Wi-Fi connection
+wifipass	(c) passwords for Wi-Fi connection
+monossid	SSID index for multi AP
+wifiretry	Wi-Fi connection retry period
+broker	URL or IP of the MQTT Broker
+port	port of the MQTT Broker
+ssl	enable/disable SSL for MQTT
+finger	broker's certificate fingerprint
+mqttuser	MQTT username
+mqttpass	(c) MQTT password
+mqttpref	MQTT topic prefix
+mqttin	MQTT topic input
+mqttout	MQTT topic output
+mqttmsg	MQTT message for test
+mqttmon	enable/disable MQTT message monitor
+autoconn	autoconnect to MQTT broker
+mqttretry	MQTT connection retry period
+mqttshare	MQTT absolute topic for sharing
+downshare	enable/disable MQTT share for download
+rfchan	(c) channel for 433 MHz tranmitter
+autoupdate	enable/disable automatic firmware update
