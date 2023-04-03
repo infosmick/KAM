@@ -1,0 +1,10 @@
+dictionary	Vocabulary of vocabularies
+context	Vocabulary of used vocabularies
+current	Current vocabulary
+default	Initial system layout
+start	Initial system sketch
+home	Default layout name
+hello	Default sketch name
+infoper	Operators info
+infojson	JSON info
+mqttcon	MQTT topic for device status
