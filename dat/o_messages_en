@@ -126,14 +126,7 @@ system error '%s'
 syntax error '%s'
 '%s' feature not present in this version
 Wi-Fi is disconnected
-do not reset the device or unplug the USB cable during the update
-OTA there is no update to do
-Firmware update to version %s is available
 File System %s
-failed_to_read_OTA_latest_FW_release
-failed to read OTA File System id			
-An update of the File System to FW release %s is required
-unable to read the OTA %s
 OTA firmware update is available (%s)
 OTA File System %s update is available (%s)
 No OTA update available (%s)
