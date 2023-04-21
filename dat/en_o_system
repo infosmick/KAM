@@ -1,0 +1,72 @@
+reset	system restart
+info	command list
+bell	generates a beep on PC
+os	splash message
+tracetoggle	toggle trace mode
+viewtoggle	toggle view mode
+debugtoggle	toggle debug mode
+etimetoggle	toggle etime mode
+error	generate an error
+trace	trace status
+debug	debug status
+view	view status
+etime	etime status
+time	show milliseconds from boot
+sketch	rename/initialize the current sketch
+layout	rename/initialize the current layout
+save	save current sketch
+archive	list archived layouts and sketches
+load	load archived layout
+open	open archived sketch
+conf	show current or archived layout
+list	show current or archived sketch
+zap	zap current or archived layout
+new	delete current or archived sketch
+store	store current layout
+print	show expression value
+boot	system reboot
+len	number of characters in a JSON
+zapall	zap all archived layouts
+newall	delete all archived sketches
+wifi	enable/disable Wi-Fi
+mqtt	enable/disable MQTT
+wificon	Wi-Fi connection status
+mqttcon	MQTT connection status
+send	send MQTT message (for test)
+conn	connect to MQTT broker
+disc	disconnect from MQTT broker
+SSID	name of the Wi-Fi network
+RSSI	Wi-Fi signal strength
+RSSIqual	% quality of the Wi-Fi signal strength
+RSSIlev	quality level of the Wi-Fi signal strength
+IP	address assigned to the device
+MAC	Wi-Fi network card address
+scan	list Wi-Fi networks
+upload	upload archived layout
+upopen	upload archived sketch
+update	upload archived OS file
+sn	serial number
+start	save start sketch
+fsdir	list archived files
+fsshow	show archived file
+fsdel	delete archived file
+fsadd	adds a line to the temporary file
+fscrc	get the CRC of a file
+fschk	check the size and CRC of the temporary file
+fsren	rename the temporary file
+fsnew	create empty temporary file
+size	number of elements in a JSON
+encrypt	encrypt JSON string or array
+decrypt	decrypt JSON string or array
+not	NOT logical operator
+logic	convert a JSON to a logical value
+number	convert a JSON to a number
+string	convert a JSON to a string
+array	convert a JSON to an array
+cls	clear screen
+fwcheck	check for a firmware update
+fwupdate	update the firmware
+fwauth	OTA server authentication type
+fsupdate	update the File System
+elist	show OTA catalog or example sketch
+eopen	load OTA example sketch

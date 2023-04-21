@@ -1,0 +1,26 @@
+JSON for representing structured data
+
+JSON defines a data as a value
+	
+	json: value
+
+where value is an elementary or structured datum
+
+	value: nothing | logic | number | string | array | object
+
+Elementary data:
+
+	nothing: null (no data)
+	logic: false, true
+	number: 0, 1, -2, 3.45, -78.23, 12.3E3, 0.4e-4,... (*)
+	string: \“clo56\”, \“X\”, \“\”,...
+
+Structured data:
+
+	array: [value1, value2,...] oppure [ ]
+	object: {string1 : value1, string2 : value2,...} oppure { }
+
+(*) The K language adds two number formats:
+	
+	#HHHHHH: 24-bit number in hexadecimal format to represent RGB color codes
+	hh:mm[:ss]: 32-bit number to represent a time
