@@ -130,4 +130,5 @@ File System %s
 OTA firmware update is available (%s)
 OTA File System %s update is available (%s)
 No OTA update available (%s)
-unable to read the OTA file '%s' (%s)
+unable to read the OTA sketch '%s' (%s)
+unable to read the OTA catalog of examples (%s)
