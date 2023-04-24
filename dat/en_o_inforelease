@@ -1,0 +1,11 @@
+Release notes.
+
+This release contains:
+
+1. new commands to manage the sketch examples available on OTA server:
+   - elist	  to view an example sketch or the catalog of examples;
+   - eopen	  to download an example sketch or to view the catalog of examples.
+
+2. command changes:
+   - info/Ctrl_I  to show release notes.
+
