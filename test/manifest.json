@@ -5,6 +5,7 @@
       "chipFamily": "ESP32",
       "improv": true,
       "parts": [
+        // trm
         { "_path": "bootloader.bin", "offset": 4096 }, //ff
       //   { "path": "partitions.bin", "offset": 32768 },
       //  { "path": "ota.bin", "offset": 57344 },
