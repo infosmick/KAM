@@ -1,0 +1,1 @@
+Test WebSerial for Smick
